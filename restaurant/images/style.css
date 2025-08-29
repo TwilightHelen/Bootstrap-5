@@ -1,4 +1,6 @@
-
+body {
+    background-color: #2F3035;
+}
 
 
 .container {
@@ -26,4 +28,3 @@ footer {
     background-color: greenyellow;
     height: 100px;
 }
-
